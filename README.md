@@ -1,6 +1,9 @@
 # images
----
 
-> copyright by <tangm421@outlook.com>
+<div align="center">
+<img src="./pic-bed/yes-256-256.ico" />
 
-collect beautiful images at any time.
+*collect beautiful images at any time.*
+
+<br>
+</div>
